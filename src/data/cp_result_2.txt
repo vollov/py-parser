@@ -1,0 +1,715 @@
+In order to be able to access the policy 20051383 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8931618
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20043915 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8918974
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 2021769 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9044658
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 20124195
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 2014154 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+1540019
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 6622511 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8813229
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 3656865
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 9094290 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+1773289
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 8723745
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 20353454 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following brokers must be copied down to the appropriate region
+6006
+                                                        
+The following accounts must be copied down to the appropriate region
+9396761
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 8607904 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following brokers must be copied down to the appropriate region
+1358
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20285867 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following brokers must be copied down to the appropriate region
+8556
+                                                        
+The following accounts must be copied down to the appropriate region
+9298277
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20064352 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following brokers must be copied down to the appropriate region
+3061
+                                                        
+The following accounts must be copied down to the appropriate region
+8958796
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 8566245 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following brokers must be copied down to the appropriate region
+8192
+                                                        
+The following accounts must be copied down to the appropriate region
+8970045
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20177619 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following brokers must be copied down to the appropriate region
+8557
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 6500126 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following brokers must be copied down to the appropriate region
+5204
+                                                        
+The following accounts must be copied down to the appropriate region
+8195595
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20179382 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following brokers must be copied down to the appropriate region
+5782
+                                                        
+The following accounts must be copied down to the appropriate region
+9128148
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 8640791
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 20332743 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9367188
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20248501 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9230241
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3575005 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9217574
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20150488 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9086531
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20070255 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8771498
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3901611 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8842051
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20331870 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9357264
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3890351 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8240025
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 4120175 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8500077
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 5551456 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8679595
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 7565281 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+1477783
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20328990 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9361292
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 20162306
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 3392965 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+7699337
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 9674234 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+7064011
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20163074 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9098602
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 9191288
+is ready to load into the target non-Production region
+                                                          
+The policy 20325892
+is ready to load into the target non-Production region
+                                                          
+The policy 3564846
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 3156644 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+7448812
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20149002 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9082544
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20084435 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8980469
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 6509778 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8516470
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 3562166
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 20331525 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8079433
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20331059 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9364561
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 6569373 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8674595
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 20078207
+is ready to load into the target non-Production region
+                                                          
+The policy 3406731
+is ready to load into the target non-Production region
+                                                          
+The policy 6605717
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 20328990 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9361292
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3910326 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8269195
+9345354
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 6564307
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 4215549 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8844318
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 6570209 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8678042
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3912047 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8273094
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20083511 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8981418
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20014389 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8854869
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20344509 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9384361
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3906269 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+7940887
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 4138424 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8983669
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 20168774
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 3582550 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+7902840
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3895395 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8272667
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 3732128
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 3593242 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9396129
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 2094131 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+1594401
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20079900 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9096768
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20014389 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8854869
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3054822 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+7346989
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3395721 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8097576
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20241034 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9227753
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 4085739
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 3048747 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+7341894
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 20333246
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 20241370 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9228671
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3912497 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8707832
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3127859 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8242271
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 3554040
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 3917629 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8278992
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 9508791
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 9192664 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8852362
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 3908005
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 3035430 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8673223
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3277493 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8230714
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 3729751
+is ready to load into the target non-Production region
+                                                          
+The policy 3382645
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 20084559 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8983006
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3579463 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8985742
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 4253566
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 6572581 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8685825
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 3917629 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8278992
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+In order to be able to access the policy 20331330 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+9364963
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 4214581
+is ready to load into the target non-Production region
+                                                          
+In order to be able to access the policy 3920837 in the target non-Production region, the following values must be copied down to that region
+                                                          
+The following accounts must be copied down to the appropriate region
+8276768
+                                                        
+Please pass this information on the the required people
+                                                       
+=======================================================
+                                                       
+The policy 20340703
+is ready to load into the target non-Production region
+                                                          
